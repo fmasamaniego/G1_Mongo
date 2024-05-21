@@ -89,7 +89,7 @@ pip install pymongo
 ```
 
 Luego en un script de Python se deben realizar las conexiones correspondientes
-[Script de conexión]()
+[Script de conexión](https://github.com/fmasamaniego/G1_Mongo/blob/main/scripts/conexion_mongodb.py)
 
 ## Lenguaje de consulta MQL
 Mongo Query Lenguage es el conjunto de sintaxis utilizado para realizar consulta en una base de datos
