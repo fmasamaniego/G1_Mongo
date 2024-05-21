@@ -18,7 +18,7 @@ Samaniego Francisco
 ## Índice
 
 1. [Introducción](#introducción)
-2. [Cómo crear una BD](#como-crear-una-bd)
+2. [Cómo crear una BD](#cómo-crear-una-bd)
 3. [Pymongo: trabajar con Python](#pymongo-trabajar-con-python)
 4. [Lenguaje de consultas: MQL](#lenguaje-de-consulta-mql)
 5. [Código de interés](#código-de-interés)
@@ -107,5 +107,17 @@ aggregate: realizar un conjunto de operaciones de agregación para encontrar doc
 Las funciones de agregación permiten agrupar, ordenar, realizar operaciones matemáticas y muchas operaciones mas, utilizando sus propios operadores
 [Operadores de agregación](https://www.w3schools.com/mongodb/mongodb_aggregations_intro.php)
 
-## Código de interés
+## Código y links de interés
 En esta sección se encuentran los links a los scripts contenidos en el repositorio
+
+### Conjunto de datos utilizado para el trabajo
+[Muestras de CO2 por país](https://github.com/owid/co2-data/blob/master/README.md)
+
+### Crear un archivo json a partir de un archivo csv
+[Crear json usando csv](https://github.com/fmasamaniego/G1_Mongo/blob/main/scripts/import_csv.py)
+
+### Crear una base de datos de una sola colección
+[BD de una sola colección](https://github.com/fmasamaniego/G1_Mongo/blob/main/scripts/una_coleccion_pymongo.py)
+
+### Crear una base de datos con varias colecciones
+[BD de varias colecciones](https://github.com/fmasamaniego/G1_Mongo/blob/main/scripts/varias_colecciones_pymongo.py)
